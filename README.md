@@ -1,6 +1,10 @@
-# ESP8266mP-Starter
+# ESP8266 Rotary Encoder Test
 
 Starter Template für ESP8266 microPython
+
+
+https://www.esp8266.com/viewtopic.php?t=10677
+
 
 ## MicroPython
 
