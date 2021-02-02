@@ -1,5 +1,5 @@
-from machine import Pin
-from neopixel import NeoPixel
+# from machine import Pin
+# from neopixel import NeoPixel
 
 import time
 from rotary_irq_esp import RotaryIRQ
