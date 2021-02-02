@@ -1,2 +1,0 @@
-WLANSSID="your SSID"
-WLANPW="Your PW"

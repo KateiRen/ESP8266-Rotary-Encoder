@@ -6,6 +6,10 @@ Starter Template für ESP8266 microPython
 https://www.esp8266.com/viewtopic.php?t=10677
 
 
+https://github.com/MikeTeachman/micropython-rotary#:~:text=MicroPython%20Rotary%20Encoder%20Driver.%20A%20MicroPython%20driver%20to,configured%20to%20trigger%20interrupts%2C%20following%20Ben%20Buxton%27s%20implementation%3A
+
+
+
 ## MicroPython
 
 [https://micropython.org/](https://micropython.org/)
