@@ -8,8 +8,8 @@ r = RotaryIRQ(pin_num_clk=2,
               pin_num_dt=0, 
               min_val=0, 
               max_val=100, 
-              reverse=False, 
-              range_mode=RotaryIRQ.RANGE_WRAP)
+              reverse=True, 
+              range_mode=RotaryIRQ.RANGE_BOUNDED)
 
 
 
